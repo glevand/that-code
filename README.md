@@ -16,6 +16,13 @@ Find the overlap of the input string.
 find-overlap.sh: Input string  = '[[1-4]][[2-5]][[9-10]]' <br />
 find-overlap.sh: Output string = '[[1-5]][[9-10]]'
 
+## delete-chars
+
+Remove the chars having multiple instances.
+
+delete-chars: Input string  = 'abcdeac1e'. <br />
+delete-chars: Output string = 'bd1'.
+
 ## Licence & Usage
 
 All files in the [That Code Project](https://github.com/glevand/that-code),
