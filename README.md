@@ -23,6 +23,12 @@ Remove the chars having multiple instances.
 delete-chars: Input string  = 'abcdeac1e'. <br />
 delete-chars: Output string = 'bd1'.
 
+## endian
+
+Print out the endianness and the direction of stack growth.
+
+endian: Output string = '== Little endian, stack grows down =='.
+
 ## Licence & Usage
 
 All files in the [That Code Project](https://github.com/glevand/that-code),

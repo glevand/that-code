@@ -7,10 +7,10 @@ bin_SCRIPTS = reverse-string.sh find-overlap.sh
 AM_CPPFLAGS = $(DEFAULT_CPPFLAGS)
 AM_CFLAGS = $(DEFAULT_CFLAGS)
 
-bin_PROGRAMS = delete-chars
+bin_PROGRAMS = delete-chars endian
 
 # bin_PROGRAMS_DEPENDENCIES = Makefile
-# bin_PROGRAMS_SOURCES = delete-chars.c
+# bin_PROGRAMS_SOURCES = delete-chars.c endian.c
 
 EXTRA_DIST = bootstrap configure.ac COPYING m4 mit-plus-license.txt README.md \
 	version.sh $(addsuffix .in, $(bin_SCRIPTS))
