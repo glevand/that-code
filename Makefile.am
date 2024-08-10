@@ -7,7 +7,7 @@ bin_SCRIPTS = reverse-string.sh find-overlap.sh
 AM_CPPFLAGS = $(DEFAULT_CPPFLAGS)
 AM_CFLAGS = $(DEFAULT_CFLAGS)
 
-bin_PROGRAMS = delete-chars endian
+bin_PROGRAMS = delete-chars endian ring-buffer
 
 # bin_PROGRAMS_DEPENDENCIES = Makefile
 # bin_PROGRAMS_SOURCES = delete-chars.c endian.c

@@ -29,6 +29,10 @@ Print out the endianness and the direction of stack growth.
 
 endian: Output string = '== Little endian, stack grows down =='.
 
+## ring-buffer
+
+Implementation of a ring-buffer.
+
 ## Licence & Usage
 
 All files in the [That Code Project](https://github.com/glevand/that-code),
