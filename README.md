@@ -33,6 +33,16 @@ endian: Output string = '== Little endian, stack grows down =='.
 
 Implementation of a ring-buffer.
 
+## find-numbers.sh
+
+Find numbers or letters in the input string.
+
+find-numbers.sh: Input string  = 'aabb -12.5 ccdd+23-66.6eeffeee 45.6 hyhj' <br />
+find-numbers.sh: Output string = '-12.5 +23 -66.6 45.6'
+
+find-numbers.sh: Input string  = 'aabb -12.5 ccdd+23-66.6eeffeee 45.6 hyhj' <br />
+find-numbers.sh: Output string = 'aabb ccdd eeffeee hyhj'
+
 ## Licence & Usage
 
 All files in the [That Code Project](https://github.com/glevand/that-code),
