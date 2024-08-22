@@ -43,6 +43,10 @@ find-numbers.sh: Output string = '-12.5 +23 -66.6 45.6'
 find-numbers.sh: Input string  = 'aabb -12.5 ccdd+23-66.6eeffeee 45.6 hyhj' <br />
 find-numbers.sh: Output string = 'aabb ccdd eeffeee hyhj'
 
+## named-pipe.sh
+
+Setup a named pipe.
+
 ## Licence & Usage
 
 All files in the [That Code Project](https://github.com/glevand/that-code),

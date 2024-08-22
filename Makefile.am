@@ -2,7 +2,8 @@ AUTOMAKE_OPTIONS = foreign
 
 ACLOCAL_AMFLAGS = -I m4
 
-bin_SCRIPTS = reverse-string.sh find-overlap.sh find-numbers.sh
+bin_SCRIPTS = reverse-string.sh find-overlap.sh find-numbers.sh named-pipe.sh
+
 
 AM_CPPFLAGS = $(DEFAULT_CPPFLAGS)
 AM_CFLAGS = $(DEFAULT_CFLAGS)
