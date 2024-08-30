@@ -47,6 +47,10 @@ find-numbers.sh: Output string = 'aabb ccdd eeffeee hyhj'
 
 Setup a named pipe.
 
+## palindrome-test.sh
+
+Test if the input string is a palindrome.
+
 ## Licence & Usage
 
 All files in the [That Code Project](https://github.com/glevand/that-code),
