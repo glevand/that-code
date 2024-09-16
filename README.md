@@ -51,6 +51,14 @@ Setup a named pipe.
 
 Test if the input string is a palindrome.
 
+## find-sub-string.sh
+
+Find sub-string in input string.
+
+find-sub-string.sh: Sub string    = '7a6' <br />
+find-sub-string.sh: Input string  = '-77.7a6.8' <br />
+find-sub-string.sh: Output string = '7a6'
+
 ## Licence & Usage
 
 All files in the [That Code Project](https://github.com/glevand/that-code),
