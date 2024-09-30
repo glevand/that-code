@@ -59,6 +59,15 @@ find-sub-string.sh: Sub string    = '7a6' <br />
 find-sub-string.sh: Input string  = '-77.7a6.8' <br />
 find-sub-string.sh: Output string = '7a6'
 
+## reverse-case.sh
+
+Reverse the case of the input string.
+
+reverse-case.sh: Input string   = '2aaBBcc155' <br />
+reverse-case.sh: Reverse string = '2AAbbCC155' <br />
+reverse-case.sh: Upper string   = '2AABBCC155' <br />
+reverse-case.sh: Lower string   = '2aabbcc155'
+
 ## Licence & Usage
 
 All files in the [That Code Project](https://github.com/glevand/that-code),
